@@ -1,4 +1,4 @@
-##365-DS-Competition
+## 365-DS-Competition
 
 This project is my entry in a competition conducted by the online learning platform 365 Data Science.
 
