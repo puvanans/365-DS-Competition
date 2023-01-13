@@ -1,11 +1,11 @@
 ## 365-DS-Competition
 
 This repository is based on data from 365 Data Science (an online learning platform), which was part of a competition conducted by 365 DS.
-I learned of this competition and dataset days before the deadline. But, the data interested me, and hence, this project.
+I learned of this competition and dataset days before the deadline and couldn't compete. But, the data interested me, and hence, this project.
 
-The dataset contained information on students and apsects of their interaction.
+The data was about students of 365 DS from around the world and different aspects of their interaction with the platform.
 
-I analyzed much of the data, but only shared on two topics. I considered these two topics to be distinct projects.
+I analyzed a large portion of the data, but only shared on two topics. I made two distinct projects out of these topics.
 
 They are:
  - Time series analysis on membership purchase, student registration, and student engagement.
@@ -13,6 +13,6 @@ They are:
  
 This repository contains the entirety of analysis, but only the relevant files will be hyperlinked to portfolio and other places.
 
-At the moment, I will not be writing documentation for the entire code base to save time. However, going forward I will be documenting as I analyze.
+This README will not explain the entire code base to save time. However, most of the individual files have markdown documenting my reasoning. And in future projects I will be documenting as I analyze.
 
 For any further questions, please reach out to me. My bio contains my Linkedin.
