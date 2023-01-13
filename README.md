@@ -1,6 +1,6 @@
 ## 365-DS-Competition
 
-This project is based on data from 365 Data Science (an online learning platform), and it was a part of a competition conducted by 365 DS.
+This repository is based on data from 365 Data Science (an online learning platform), which was part of a competition conducted by 365 DS.
 I learned of this competition and dataset days before the deadline. But, the data interested me, and hence, this project.
 
 The dataset contained information on students and apsects of their interaction.
