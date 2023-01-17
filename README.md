@@ -16,3 +16,6 @@ This repository contains the entirety of analysis, but only the relevant files w
 This README will not explain the entire code base to save time. However, most of the individual files have markdown documenting my reasoning. And in future projects I will be documenting as I analyze.
 
 For any further questions, please reach out to me. My bio contains my Linkedin.
+
+- [My article explaining the time series project](https://www.linkedin.com/pulse/data-driven-insights-student-behavior-365-datascience-puvanan-selvam)
+- [Line graph of the time series on Tableau] (https://public.tableau.com/views/365DSStudentInteraction2022/StudentInteraction2022?:language=en-US&:display_count=n&:origin=viz_share_link)
