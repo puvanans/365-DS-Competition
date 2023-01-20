@@ -9,7 +9,10 @@ I analyzed a large portion of the data, but only shared on two topics. I made tw
 
 They are:
  - Time series analysis on membership purchase, student registration, and student engagement.
+   - https://github.com/puvanans/365-DS-Competition/blob/master/Engagement.ipynb
  - Similarity of engagement between the top 5 represented countries (In process).
+   - https://github.com/puvanans/365-DS-Competition/blob/master/engagement%20_analysis_by_country.ipynb
+ 
  
 This repository contains the entirety of analysis, but only the relevant files will be hyperlinked to portfolio and other places.
 
